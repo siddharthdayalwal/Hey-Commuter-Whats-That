@@ -5,16 +5,16 @@ run as:-
   terminal commands
   
   
-   source venv/bin/activate
+   `source venv/bin/activate`
    
    
-   go to path of project
+   `go to path of project`
    
    
-   export GOOGLE_APPLICATION_CREDENTIALS= " path of json file"
+   `export GOOGLE_APPLICATION_CREDENTIALS= " path of json file"`
    
    
-   python2 edit.py
+   `python2 edit.py`
 
 
 
